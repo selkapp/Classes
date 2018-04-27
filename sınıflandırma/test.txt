@@ -1,0 +1,12 @@
+150202072      ýrmak       yyy        91  1
+150            selcan      xxx        15  2         
+1067           buket      atbas       22  1
+1490           seda       ttt         98  2
+149595         ayse       akman       78  1
+1489           selin      kkkk        791 2 
+14030309       burcu      selin       5   1
+1504040        selin      altin       8   2
+14030309       burcu      selin       7   1
+1504040        selin      altin       8   9
+1490           seda       ttt         98  2
+1489           selin      kkkk        791 2
